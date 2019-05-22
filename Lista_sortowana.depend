@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554127995 source:c:\users\student\desktop\lista_sortowana\lista_sortujaca.cpp
+	"lista_sortujaca.h"
+
+1554130160 c:\users\student\desktop\lista_sortowana\lista_sortujaca.h
+	<iostream>
+
+1554127991 source:c:\users\student\desktop\lista_sortowana\main.cpp
+	"lista_sortujaca.h"
+
